@@ -1,0 +1,7 @@
+PARAMETERS
+Temperament = 12TET
+Tempo = 100
+Beats/Measure = 7
+CLEAR
+BEGIN
+
